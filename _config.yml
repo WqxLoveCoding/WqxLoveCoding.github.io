@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Qixuan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "China Academy of Information and Communications Technology"
+  bio              : "Master degree candidate/Amateur data science competitor"
   location         : "Beijing, China"
-  employer         : 
+  employer         : "China Academy of Information and Communications Technology"
   uri              : # URL
   email            : "wqx_2008@163.com" 
 
@@ -44,7 +44,8 @@ author:
   dribbble         : # Username
   github           : "WqxLoveCoding"
   kaggle           : "wqx20000115"
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+  tianchi          : "https://tianchi.aliyun.com/home/science/scienceDetail?spm=a2c22.12281920.0.0.2ab73f74uQFM0W&userId=1095279786226"
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
@@ -64,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : "QixuanWang32030"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
