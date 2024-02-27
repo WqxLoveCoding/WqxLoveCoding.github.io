@@ -148,8 +148,11 @@
         <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
       {% endif %}
       {% if author.zhihu %}
-      <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+        <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
+      {% endif %}
+      {% if author.tianchi %}
+        <li><a href="{{ author.tianchi }}"><i class="fab fa-regular fa-t icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
